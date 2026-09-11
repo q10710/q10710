@@ -4,14 +4,14 @@
 
 **把繁琐交给脚本，把判断留给自己。**
 
-MoviePilot 插件开发者 ｜ 自建自用 ｜ 9 个插件
+<sub>MoviePilot 插件开发者 ｜ 自建自用</sub>
 
 <br>
 
-[![MoviePilot](https://img.shields.io/badge/MoviePilot-V2%20%7C%20V3-1f6feb?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/q10710/MoviePilot-Plugins)
-[![Plugins](https://img.shields.io/badge/插件-9%20个-3fb950?style=for-the-badge&logo=github&logoColor=white)](https://github.com/q10710/MoviePilot-Plugins)
-[![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![MoviePilot](https://img.shields.io/badge/MoviePilot-V2%20%2F%20V3-1f6feb?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/q10710/MoviePilot-Plugins)
+[![Plugins](https://img.shields.io/badge/插件-9%20个-3fb950?style=for-the-badge&labelColor=0d1117)](https://github.com/q10710/MoviePilot-Plugins)
+[![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=white)](https://www.python.org/)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&labelColor=0d1117&logo=docker&logoColor=white)](https://www.docker.com/)
 
 </div>
 
@@ -21,13 +21,20 @@ MoviePilot 插件开发者 ｜ 自建自用 ｜ 9 个插件
 
 自己写、自己改、自己用。用得顺手的东西，就整理出来分享。
 
-插件以 **安全第一** 为前提设计：涉及删除文件、删除订阅、改动下载器的能力，开关默认关闭，或只报告不执行。
+插件以 **安全第一** 为前提设计 —— 涉及删除文件、删除订阅、改动下载器的能力，开关默认关闭，或只报告不执行。
 
 <br>
 
 ## 插件仓库
 
+<div align="center">
+
 **[q10710 / MoviePilot-Plugins](https://github.com/q10710/MoviePilot-Plugins)**
+
+[![Stars](https://img.shields.io/github/stars/q10710/MoviePilot-Plugins?style=flat-square&labelColor=0d1117&color=8b949e)](https://github.com/q10710/MoviePilot-Plugins/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/q10710/MoviePilot-Plugins?style=flat-square&labelColor=0d1117&color=8b949e)](https://github.com/q10710/MoviePilot-Plugins/commits/main)
+
+</div>
 
 | ｜ | 插件 | 说明 |
 | :--: | :--- | :--- |
@@ -64,6 +71,8 @@ https://github.com/q10710/MoviePilot-Plugins
 > **改动可回滚** — 先自测、再小步发布，保留完整历史版本说明。
 
 <br>
+
+---
 
 <div align="center">
 
