@@ -9,7 +9,7 @@
 <br>
 
 [![MoviePilot](https://img.shields.io/badge/MoviePilot-V2%20%2F%20V3-1f6feb?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/q10710/MoviePilot-Plugins)
-[![Plugins](https://img.shields.io/badge/插件-9%20个-3fb950?style=for-the-badge&labelColor=0d1117)](https://github.com/q10710/MoviePilot-Plugins)
+[![Plugins](https://img.shields.io/badge/插件-10%20个-3fb950?style=for-the-badge&labelColor=0d1117)](https://github.com/q10710/MoviePilot-Plugins)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=white)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&labelColor=0d1117&logo=docker&logoColor=white)](https://www.docker.com/)
 
