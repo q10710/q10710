@@ -9,7 +9,7 @@
 <br>
 
 [![MoviePilot](https://img.shields.io/badge/MoviePilot-V2%20%2F%20V3-1f6feb?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/q10710/MoviePilot-Plugins)
-[![Plugins](https://img.shields.io/badge/插件-9%20个-3fb950?style=for-the-badge&labelColor=0d1117)](https://github.com/q10710/MoviePilot-Plugins)
+[![Plugins](https://img.shields.io/badge/插件-10%20个-3fb950?style=for-the-badge&labelColor=0d1117)](https://github.com/q10710/MoviePilot-Plugins)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=white)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&labelColor=0d1117&logo=docker&logoColor=white)](https://www.docker.com/)
 
@@ -47,6 +47,7 @@
 | 🎬 | **洗版守护Q自用版** | 未完结却被误标洗版的订阅自动取消洗版；媒体库文件丢失时自动重置订阅重新下载 |
 | 🧹 | **过期订阅清理Q自用版** | 订阅超过设定天数未下载到新剧集时自动取消 |
 | 🗑️ | **删档订阅清理Q自用版** | 媒体库条目被删除而订阅仍在、长期不下载时，按配置清理该订阅 |
+| 👤 | **渠道用户自动建号Q自用版** | 其他渠道账号首次发消息时，自动按渠道 userid 创建 MoviePilot 普通用户并完成绑定，使其能正常使用查询、搜索、订阅 |
 
 <br>
 
